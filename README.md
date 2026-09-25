@@ -1,6 +1,7 @@
 # For-Arrays-and-ArrayLists-Assignment
 
 ##Code:
+
 <img width="257" height="327" alt="image" src="https://github.com/user-attachments/assets/12c0f20b-ea6f-4ab5-88b9-7dcfc0ce1828" />
 
 <img width="326" height="398" alt="image" src="https://github.com/user-attachments/assets/fa0a825d-3c10-4285-862a-205ace89dd34" />
